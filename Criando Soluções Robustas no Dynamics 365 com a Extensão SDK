@@ -1,0 +1,23 @@
+Para criar soluções robustas no **Dynamics 365** utilizando a **Extensão SDK**, siga as etapas abaixo:
+
+1. **Instale o Visual Studio**:
+   - Certifique-se de ter o **Visual Studio** instalado em sua máquina.
+   - O Visual Studio é uma ferramenta essencial para desenvolvimento no Dynamics 365.
+
+2. **Utilize a Extensão SDK do Microsoft Dynamics 365 Customer Engagement**:
+   - A **Extensão SDK** fornece uma visão arquitetural do **Customer Engagement**, incluindo o modelo de entidade, modelo de segurança, serviços da web e código de exemplo².
+   - Você pode acessar a **Extensão SDK** para obter informações detalhadas sobre como escrever soluções, código do lado do servidor, aplicativos cliente, lógica de negócios personalizada, plug-ins, módulos de integração e muito mais².
+
+3. **Use o XrmToolBox**:
+   - O **XrmToolBox** é uma ferramenta de apoio que permite criar soluções personalizadas para o Dynamics 365.
+   - Ele oferece uma variedade de utilitários e plugins que facilitam o desenvolvimento e a personalização.
+
+4. **Crie soluções personalizadas**:
+   - Com o Visual Studio e a Extensão SDK, você pode criar fluxos de trabalho personalizados, plug-ins e personalizar a interface do usuário.
+   - Desenvolva processos de negócios personalizados para atender às necessidades específicas do seu projeto.
+
+5. **Siga as etapas de desenvolvimento e implantação**:
+   - Ao criar soluções, siga todas as etapas do processo de desenvolvimento e implantação.
+   - Isso inclui a criação de **Plugins**, **Actions** e **Workflow Assembly**.
+
+https://academiapme-my.sharepoint.com/:u:/g/personal/renato_dio_me/EUO3hC3vKM1LpJbuo3hhtRAB4TukLZQsKLaO1vJeETj1UQ?e=odYAKa
